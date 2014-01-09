@@ -1,0 +1,3 @@
+[submodule "flipper"]
+	path = flipper
+	url = git@github.com:pagelines/flipper.git
