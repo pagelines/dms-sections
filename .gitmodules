@@ -22,3 +22,6 @@
 [submodule "rapidtabs"]
 	path = rapidtabs
 	url = git@github.com:pagelines/rapidtabs.git
+[submodule "revslider"]
+	path = revslider
+	url = git@github.com:pagelines/revslider.git
