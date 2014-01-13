@@ -28,3 +28,6 @@
 [submodule "scrollspy"]
 	path = scrollspy
 	url = git@github.com:pagelines/scrollspy.git
+[submodule "secondnav"]
+	path = secondnav
+	url = git@github.com:pagelines/secondnav.git
