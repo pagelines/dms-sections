@@ -1,3 +1,6 @@
 [submodule "flipper"]
 	path = flipper
 	url = git@github.com:pagelines/flipper.git
+[submodule "hero"]
+	path = hero
+	url = git@github.com:pagelines/hero.git
