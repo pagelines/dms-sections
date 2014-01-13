@@ -13,3 +13,6 @@
 [submodule "popthumbs"]
 	path = popthumbs
 	url = git@github.com:pagelines/popthumbs.git
+[submodule "propricing"]
+	path = propricing
+	url = git@github.com:pagelines/propricing.git
