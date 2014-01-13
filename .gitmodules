@@ -25,3 +25,6 @@
 [submodule "revslider"]
 	path = revslider
 	url = git@github.com:pagelines/revslider.git
+[submodule "scrollspy"]
+	path = scrollspy
+	url = git@github.com:pagelines/scrollspy.git
