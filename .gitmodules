@@ -31,3 +31,6 @@
 [submodule "secondnav"]
 	path = secondnav
 	url = git@github.com:pagelines/secondnav.git
+[submodule "sharebar"]
+	path = sharebar
+	url = git@github.com:pagelines/sharebar.git
