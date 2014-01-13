@@ -10,3 +10,6 @@
 [submodule "masthead"]
 	path = masthead
 	url = git@github.com:pagelines/masthead.git
+[submodule "popthumbs"]
+	path = popthumbs
+	url = git@github.com:pagelines/popthumbs.git
