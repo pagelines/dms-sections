@@ -34,3 +34,6 @@
 [submodule "sharebar"]
 	path = sharebar
 	url = git@github.com:pagelines/sharebar.git
+[submodule "starbars"]
+	path = starbars
+	url = git@github.com:pagelines/starbars.git
