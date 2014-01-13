@@ -16,3 +16,6 @@
 [submodule "propricing"]
 	path = propricing
 	url = git@github.com:pagelines/propricing.git
+[submodule "quickslider"]
+	path = quickslider
+	url = git@github.com:pagelines/quickslider.git
