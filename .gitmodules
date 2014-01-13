@@ -4,3 +4,6 @@
 [submodule "hero"]
 	path = hero
 	url = git@github.com:pagelines/hero.git
+[submodule "icallout"]
+	path = icallout
+	url = git@github.com:pagelines/icallout.git
